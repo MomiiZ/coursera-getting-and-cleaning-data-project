@@ -17,18 +17,18 @@
 
 Analysis R Script 
 	run_analysis.R 
-	https://github.com/MomiiZ/coursera-getting-and-cleaning-data-project/run_analysis.R 
+	https://github.com/MomiiZ/coursera-getting-and-cleaning-data-project/blob/master/run_analysis.R 
 Tidy Data Set 
 	tidy.txt
-	https://github.com/MomiiZ/coursera-getting-and-cleaning-data-project/tidy.txt
+	https://github.com/MomiiZ/coursera-getting-and-cleaning-data-project/blob/master/tidy.txt
 
 Cookbook
 	CODEBOOK.txt
-	https://github.com/MomiiZ/coursera-getting-and-cleaning-data-project/CODEBOOK.txt
+	https://github.com/MomiiZ/coursera-getting-and-cleaning-data-project/blob/master/CODEBOOK.txt
 
 README  
 	README.md
-	https://github.com/MomiiZ/coursera-getting-and-cleaning-data-project/README.md
+	https://github.com/MomiiZ/coursera-getting-and-cleaning-data-project/blob/master/README.md
 
 Github Repo 
 	Repo 
